@@ -1,0 +1,8 @@
+If the user is active/inactive on the office detail and added as service specialist on the account and the account calulation is checked,
+yet the user gets deleted.
+
+If the user active/inactive on the office detail and added as success manager on the account and the account calculation is checked 
+then the user doesn't get deleted from the accunt team on the account.
+
+No matter if the user the user account team role is service specialist on the office detail and active/inactive on the office detail 
+added as the success manager on the account team of the account when refreshed through the account recalculation it is deleted.
